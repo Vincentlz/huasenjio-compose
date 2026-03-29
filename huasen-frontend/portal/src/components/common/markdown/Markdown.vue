@@ -289,6 +289,7 @@ export default {
         margin: 1.5em auto;
       }
       p {
+        white-space: pre-wrap !important;
         margin: 0 5px 1.5em 5px !important;
         img {
           max-width: 100%;
